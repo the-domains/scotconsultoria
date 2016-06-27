@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[scotconsultoria]]></title>
+        <description><![CDATA[scotconsultoria]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 18:09:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[O que esperar para o mercado do boi gordo em curto prazo?]]></title>
+            <description><![CDATA[<article><h1>O que esperar para o mercado do boi gordo em curto prazo?</h1><p>A expectativa é de oferta limitada de boiadas, mantendo o mercado firme. De toda forma, a situação de margens apertadas das indústrias deve ser acompanhada de perto.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4768d3f463879f4124425fbdbb238786/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2Fmhu2eKMZvs8%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=mhu2eKMZvs8</link>
+            <guid isPermaLink="false">7aa3b921-ef24-41bb-9f7d-c2423bf65d18</guid>
+            <pubDate>Mon, 27 Jun 2016 18:09:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
