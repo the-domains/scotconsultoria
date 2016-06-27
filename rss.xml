@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[scotconsultoria]]></title>
         <description><![CDATA[scotconsultoria]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scotconsultoria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 18:09:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 18:09:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scotconsultoria/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mercado sem rodeios - Episódio 19 - Margem dos frigoríficos dando o recado]]></title>
+            <description><![CDATA[<article><h1>Mercado sem rodeios - Episódio 19 - Margem dos frigoríficos dando o recado</h1><p>Resultado está cada vez menor. Margem da indústria diminui e deve limitar alta dos presos da arroba nos próximos meses.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d44eca9f05a8b29b58ce6cf24eb12d27/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FPpZYb5pLTiE%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=PpZYb5pLTiE</link>
+            <guid isPermaLink="false">2426b4b4-9ace-4af9-afd6-0d6224e1ef59</guid>
+            <pubDate>Mon, 27 Jun 2016 18:09:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[O que esperar para o mercado do boi gordo em curto prazo?]]></title>
             <description><![CDATA[<article><h1>O que esperar para o mercado do boi gordo em curto prazo?</h1><p>A expectativa é de oferta limitada de boiadas, mantendo o mercado firme. De toda forma, a situação de margens apertadas das indústrias deve ser acompanhada de perto.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4768d3f463879f4124425fbdbb238786/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2Fmhu2eKMZvs8%2Fmaxresdefault.jpg"></article>]]></description>
